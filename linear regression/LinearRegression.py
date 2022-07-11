@@ -71,7 +71,7 @@ def normalizeFeatures(matrix):
 
 def main():
    print("hi")
-   data = readFile("test.csv")
+   data = readFile("teset.csv")
    plt.plot(data[:, 0], data[:, 1])
    plt.show()
    data = normalizeFeatures(data)
