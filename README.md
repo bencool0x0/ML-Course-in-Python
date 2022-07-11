@@ -1,4 +1,5 @@
-# ML-Course-in-Python
-Coursera Machine Learning Course by Andrew Ng 
+# ML-Stuff-in-Python
 
-Assignments written in Python
+Some ML algorithms written in Python
+
+Probably (definitely) not optimized
